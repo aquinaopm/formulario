@@ -12,3 +12,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 <h1>Cadastrado com sucesso!!!</h1>
+<a href="index.php">Voltar ao menu</a>
